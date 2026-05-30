@@ -17,9 +17,9 @@ export default function Submit() {
   const [previews, setPreviews] = useState<string[]>([]);
   const [input, setInput] = useState("");
   const [step, setStep] = useState<"greeting" | "photos" | "analyzing" | "context" | "generating" | "done">("greeting");
-  const [superintendent] = useState(() => localStorage.getItem("superintendent") || "");
-  const [projectId] = useState(() => localStorage.getItem("project_id") || "");
-  const [projectName] = useState(() => localStorage.getItem("project_name") || "");
+  const [_superintendent] = useState(() => localStorage.getItem("superintendent") || "");
+  const [_projectId] = useState(() => localStorage.getItem("project_id") || "");
+  const [_projectName] = useState(() => localStorage.getItem("project_name") || "");
   const [showSetup, setShowSetup] = useState(!localStorage.getItem("superintendent"));
   const [setupName, setSetupName] = useState("");
   const [setupProject, setSetupProject] = useState("");
@@ -267,7 +267,7 @@ export default function Submit() {
                 onKeyDown={(e) => e.key === "Enter" && handleSend()}
                 placeholder="8 guys from Pacific Steel, rain delay 2-3:30..."
                 className="flex-1 rounded-full px-5 py-3 text-sm focus:outline-none focus:ring-2"
-                style={{ backgroundColor: "var(--input-bg)", border: "1px solid var(--input-border)", color: "var(--foreground)", focusRingColor: "var(--primary)" }}
+                style={{ backgroundColor: "var(--input-bg)", border: "1px solid var(--input-border)", color: "var(--foreground)" }}
               />
               <button onClick={handleSend} className="px-5 py-3 rounded-full text-sm font-semibold transition-all" style={{ backgroundColor: "var(--primary)", color: "#1a1a1a" }}>
                 Send
