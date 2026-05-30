@@ -1,0 +1,35 @@
+# SiteNarrator — Python Dependencies
+# Agent Framework
+strands-agents==0.1.5
+bedrock-agentcore==1.0.0
+
+# AWS SDK
+boto3==1.35.0
+
+# API Layer
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+python-multipart==0.0.9
+websockets==12.0
+pydantic==2.9.0
+
+# Box Integration
+boxsdk[jwt]==3.12.0
+
+# PDF Generation
+weasyprint==62.0
+
+# HTTP & Utilities
+requests==2.32.0
+python-dotenv==1.0.1
+httpx==0.27.0
+
+# Observability (OpenTelemetry)
+opentelemetry-api==1.27.0
+opentelemetry-sdk==1.27.0
+opentelemetry-exporter-otlp==1.27.0
+opentelemetry-instrumentation-fastapi==0.48b0
+
+# Auth
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
