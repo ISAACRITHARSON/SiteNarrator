@@ -1,6 +1,6 @@
 # SiteNarrator
 
-> **Cascadia AI Hackathon 2026 · Team Ai4Humans**
+> **Ai4Humans**
 
 ![SiteNarrator](https://github.com/ISAACRITHARSON/sitenarrator/blob/main/civil-engineer-construction-worker-manager-holding-digital-tablet-blueprints-talking-planing-about-construction-site-cooperation-teamwork-concept.jpg)
 
