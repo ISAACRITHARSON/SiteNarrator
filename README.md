@@ -30,7 +30,7 @@ Construction project documentation follows a consistent, manual pattern across v
 
 | Site Photo 1 | Site Photo 2 |
 |---|---|
-| ![Site Photo 1](https://raw.githubusercontent.com/ISAACRITHARSON/sitenarrator/main/demo/sample_photos/pexels-keat007-32716845.jpg) | ![Site Photo 2](https://raw.githubusercontent.com/ISAACRITHARSON/sitenarrator/refs/heads/main/demo/sample_photos/pexels-construccion-total-2464540-6082416.jpg) |
+| ![Site Photo 1](https://raw.githubusercontent.com/ISAACRITHARSON/sitenarrator/main/demo/sample_photos/pexels-keat007-32716845.jpg) | ![Site Photo 2](https://github.com/ISAACRITHARSON/sitenarrator/blob/main/demo/sample_photos/pexels-shox-33628380.jpg?raw=true) |
 
 ### Generated Report (Output)
 
