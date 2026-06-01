@@ -34,7 +34,7 @@ Construction project documentation follows a consistent, manual pattern across v
 
 ### Generated Report (Output)
 
-📄 **[View Sample Report →](https://github.com/ISAACRITHARSON/sitenarrator/blob/main/demo/sample_report.pdf)**
+**[View Sample Report →](https://github.com/ISAACRITHARSON/sitenarrator/blob/main/demo/sample_report.pdf)**
 
 ---
 ## The Solution
