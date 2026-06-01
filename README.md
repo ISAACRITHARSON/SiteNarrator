@@ -39,7 +39,7 @@ Construction project documentation follows a consistent, manual pattern across v
 ---
 ## The Solution
 
-SiteNarrator is an AI-powered, multi-agent system that automates this end-to-end process. Hundreds of field inputs - photos, voice notes, and text observations - flow into a **three-agent Strands pipeline** that ingests, synthesizes, and quality-checks a draft narrative. A Project Coordinator reviews and approves before delivery. The final signed-off report and all source evidence are stored in **Box** with a complete audit trail.
+SiteNarrator is an AI-powered, multi-agent system that automates this end-to-end process. Hundreds of field inputs -- photos, voice notes, and text observations -- flow into a **three-agent Strands pipeline** that ingests, synthesizes, and quality-checks a draft narrative. A Project Coordinator reviews and approves before delivery. The final signed-off report and all source evidence are stored in **Box** with a complete audit trail.
 
 **SiteNarrator doesn't replace the Project Coordinator. It eliminates the 1–3 hours of manual synthesis so the PC can focus on accuracy, client relationships, and exception handling - the work only a human should do.**
 
