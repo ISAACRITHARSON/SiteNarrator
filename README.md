@@ -24,6 +24,19 @@ Construction project documentation follows a consistent, manual pattern across v
 
 ---
 
+## Demo
+
+### Sample Field Photos (Input)
+
+| Site Photo 1 | Site Photo 2 |
+|---|---|
+| ![Site Photo 1](https://raw.githubusercontent.com/ISAACRITHARSON/sitenarrator/main/demo/sample_photos/pexels-keat007-32716845.jpg) | ![Site Photo 2](https://raw.githubusercontent.com/ISAACRITHARSON/sitenarrator/main/demo/sample_photos/pexels-mahmutyilmaz-35300835.jpg) |
+
+### Generated Report (Output)
+
+📄 **[View Sample Report →](https://github.com/ISAACRITHARSON/sitenarrator/blob/main/demo/sample_report.pdf)**
+
+---
 ## The Solution
 
 SiteNarrator is an AI-powered, multi-agent system that automates this end-to-end process. Hundreds of field inputs — photos, voice notes, and text observations — flow into a **three-agent Strands pipeline** that ingests, synthesizes, and quality-checks a draft narrative. A Project Coordinator reviews and approves before delivery. The final signed-off report and all source evidence are stored in **Box** with a complete audit trail.
