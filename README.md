@@ -47,12 +47,12 @@ SiteNarrator is an AI-powered, multi-agent system that automates this end-to-end
 
 ## What It Eliminates
 
-- ✅ Manual photo review and narrative writing
-- ✅ Inconsistent report quality across project coordinators
-- ✅ Missing or estimated weather data
-- ✅ Vague, non-attributable trade progress entries
-- ✅ Unversioned report edits and lost field input
-- ✅ Reports reaching clients without PM approval
+✅ Manual photo review and narrative writing
+✅ Inconsistent report quality across project coordinators
+✅ Missing or estimated weather data
+✅ Vague, non-attributable trade progress entries
+✅ Unversioned report edits and lost field input
+✅ Reports reaching clients without PM approval
 
 ---
 
